@@ -1,3 +1,3 @@
-Phrase 1|(happy)Tag1,(nice)Tag2,(greeting)Tag3
-Phrase 2|(angry)Tag1,(dialog)Tag2,(badboy)Tag3
-Phrase 3|(klatsch)Tag1,(dialog)Tag2,(funny)Tag3
+Phrase 1|happy,mood;nice,char;greeting,type
+Phrase 2|angry,mood;dialog,type;badboy,char
+Phrase 3|klatsch,type;dialog,type;funny,mood
