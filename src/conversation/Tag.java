@@ -8,4 +8,12 @@ public class Tag {
         this.type = type;
         this.name = name;
     }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getType() {
+        return type;
+    }
 }

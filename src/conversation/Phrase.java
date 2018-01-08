@@ -14,4 +14,11 @@ public class Phrase {
         this.tagList = tagList;
     }
 
+    public List<Tag> getTagList() {
+        return tagList;
+    }
+
+    public String getText() {
+        return text;
+    }
 }
